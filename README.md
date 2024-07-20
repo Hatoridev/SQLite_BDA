@@ -88,10 +88,19 @@ Repository with small examples of Database Administration using SQLite, some in 
    ```sh
    python3 access_roles.py
    ```
-
+ ---
+ 
 ## Languages
 
 <div align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png" height="60" alt="SQL logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python logo" />
+</div>
+
+---
+
+## Library:
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="SQLite logo" />
 </div>
