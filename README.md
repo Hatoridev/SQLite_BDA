@@ -7,7 +7,7 @@ Repository with small examples of Database Administration using SQLite, some in 
 ### Termux (Android):
 1. **Open the Termux app**.
 2. **Update and install necessary packages** by running the following commands:
-   ```sh
+   ```bash
    apt update && apt upgrade
    pkg install sqlite
    pkg install git
@@ -17,17 +17,17 @@ Repository with small examples of Database Administration using SQLite, some in 
    ```
 
 3. **Navigate to the desired lesson directory**:
-   ```sh
+   ```bash
    cd aula01  # or aula02, aula03, etc.
    ```
 
 4. **Create the database** using the corresponding SQL file:
-   ```sh
+   ```bash
    sqlite3 your_database.db < create_database.sql
    ```
 
 5. **Run the Python scripts to manipulate the data**:
-   ```sh
+   ```bash
    python access_roles.py
    ```
 
@@ -38,34 +38,34 @@ Repository with small examples of Database Administration using SQLite, some in 
    - Download and install SQLite: [SQLite Download Page](https://www.sqlite.org/download.html)
 
 2. **Clone the repository** and navigate to the directory:
-   ```sh
+   ```bash
    git clone https://github.com/Hatoridev/SQLite_DBA.git
    cd SQLite_DBA
    ```
 
 3. **Install necessary Python packages**:
-   ```sh
+   ```bash
    pip install sqlite3
    ```
 
 4. **Navigate to the desired lesson directory**:
-   ```sh
+   ```bash
    cd aula01  # or aula02, aula03, etc.
    ```
 
 5. **Create the database** using the corresponding SQL file:
-   ```sh
+   ```bash
    sqlite3.exe your_database.db < create_database.sql
    ```
 
 6. **Run the Python scripts to manipulate the data**:
-   ```sh
+   ```bash
    python access_roles.py
    ```
 
 ### Debian/Linux:
 1. **Open the terminal** and execute the following commands to install Git, Python, and SQLite:
-   ```sh
+   ```bash
    sudo apt update && sudo apt upgrade
    sudo apt install sqlite3
    sudo apt install git
@@ -75,29 +75,26 @@ Repository with small examples of Database Administration using SQLite, some in 
    ```
 
 2. **Navigate to the desired lesson directory**:
-   ```sh
+   ```bash
    cd aula01  # or aula02, aula03, etc.
    ```
 
 3. **Create the database** using the corresponding SQL file:
-   ```sh
+   ```bash
    sqlite3 your_database.db < create_database.sql
    ```
 
 4. **Run the Python scripts to manipulate the data**:
-   ```sh
+   ```bash
    python3 access_roles.py
    ```
- ---
- 
+   
 ## Languages
 
 <div align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png" height="60" alt="SQL logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python logo" />
 </div>
-
----
 
 ## Library:
 
