@@ -31,6 +31,9 @@ Repository with small examples of Database Administration using SQLite, some in 
    python access_roles.py
    ```
 
+6. **To view the database**:
+   - You can open the resulting `.db` file using the SQL Client app available on Android.
+
 ### Windows:
 1. **Install Git, Python, and SQLite**:
    - Download and install Git: [Git for Windows](https://gitforwindows.org/)
@@ -88,7 +91,7 @@ Repository with small examples of Database Administration using SQLite, some in 
    ```bash
    python3 access_roles.py
    ```
-   
+
 ## Languages
 
 <div align="left">
